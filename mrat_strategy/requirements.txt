@@ -1,0 +1,6 @@
+pandas>=2.2
+numpy>=1.26
+yfinance>=0.2.40
+matplotlib>=3.8
+lxml>=4.9
+html5lib>=1.1
